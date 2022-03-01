@@ -1,7 +1,6 @@
-
-<h1 align="center">Oi 👋, Eu sou o Davison Rebechi</h1>
-
-<h3 align="center">Sou apaixonado em trabalhar com dados e ajudar resolver problemas.</h3>
+<p align="left">
+  <img src="https://github.com/davisonrebechi18/davisonrebechi18/raw/main/assets/header-github.gif" alt="Oi, eu sou o Davison">
+</p>
 
 - 🔭 Atualente estou trabalhando como **Engenheiro Analytics**
 
@@ -47,7 +46,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h1 align="center">Oi 👋, Eu sou o Davison Rebechi</h1>
 
+<h3 align="center">Sou apaixonado em trabalhar com dados e ajudar resolver problemas.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davisonrebechi18" alt="davisonrebechi18" /></a> </p>
 
