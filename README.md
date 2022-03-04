@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando como **Engenheiro Analytics**
 
-- 👯 Eu procuro colaborar em **projetos ETL e ciência de dados**
+- 👯 Eu procuro colaborar em **projetos ELT/ETL e ciência de dados**
 
 - 📝 Eu regularmente escrevo em [https://medium.com/@davisonrebechi](https://medium.com/@davisonrebechi)
 
