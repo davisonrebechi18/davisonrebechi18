@@ -1,8 +1,5 @@
-<p align="left">
-  <img src="https://github.com/davisonrebechi18/davisonrebechi18/raw/main/assets/header-github.gif" alt="Oi, eu sou o Davison">
-</p>
 
-- 🔭 Atualmente estou trabalhando como **Engenheiro Analytics**
+- 🔭 Atualmente estou trabalhando como **Engenheiro de Dados**
 
 - 👯 Eu procuro colaborar em **projetos ELT/ETL e ciência de dados**
 
