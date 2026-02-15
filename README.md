@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre **tecnologia, ciência de dados e etc; ficarei feliz em ajudar :)**
 
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/davisonsouzarebechi/](https://www.linkedin.com/in/davisonrebechi/)
+- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/davisonrebechi/](https://www.linkedin.com/in/davisonrebechi/)
 <br>
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@davisonrebechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@davisonrebechi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/davisonsouzarebechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davisonsouzarebechi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/davisonrebechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davisonrebechi" height="30" width="40" /></a>
 <a href="https://medium.com/@davisonrebechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davisonrebechi" height="30" width="40" /></a>
 </p>
 
