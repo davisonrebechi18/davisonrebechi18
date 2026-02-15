@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre **tecnologia, ciência de dados e etc; ficarei feliz em ajudar :)**
 
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/davisonsouzarebechi/](https://www.linkedin.com/in/davisonsouzarebechi/)
+- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/davisonsouzarebechi/](https://www.linkedin.com/in/davisonrebechi/)
 <br>
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
