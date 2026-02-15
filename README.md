@@ -12,12 +12,11 @@
   </em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/davisonrebechi18">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davisonrebechi18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisonrebechi18&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
+<!-- Elementos dinâmicos - Foco em Shields.io e Streak Stats (plataforma Heroku) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davisonrebechi18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ 
+</div>
 
 ---
 
